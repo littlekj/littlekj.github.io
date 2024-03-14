@@ -1,15 +1,12 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    {% feed_meta %}
-    {% seo %}
+---
+layout: compress
+---
 
-  </head>
-  <body>
-    {% include navigation.html %}
-    {{ content }}
-  </body>
-</html>
+{% assign assets_base_url = site.url %}
+{% if site.cdn.jsdelivr.enabled %}
+{% assign assets_base_url = "https://fastly.jsdelivr.net/gh/" | append: site.repository | append: '@master' %}
+{% endif %}
+{% assign assets_images_url = '<img src="' | append: site.url | append: "/images" %}
+{% include header.html %}
+    {{ content | replace: '<img src="/images', assets_images_url }}
+{% include footer.html %}
