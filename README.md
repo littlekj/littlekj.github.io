@@ -71,4 +71,4 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 致谢
 
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) 和 https://github.com/mzlogin/mzlogin.github.io 修改，感谢！
+本博客外观基于 [DONGChuan](https://dongchuan.github.io) 和 [mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) 修改，感谢！
