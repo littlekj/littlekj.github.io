@@ -1,6 +1,6 @@
-# 码志
+# 日志
 
-我的个人博客：<https://blog.ink-quill.com>，欢迎 Star 和 Fork。
+我的个人博客：<https://littlekj.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -9,7 +9,6 @@
 * [效果预览](#效果预览)
 * [Fork 指南](#fork-指南)
 * [使用文档](#使用文档)
-* [经验与思考](#经验与思考)
 * [联系我](#联系我)
 * [致谢](#致谢)
 
@@ -17,9 +16,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://blog.ink-quill.com)**
+**[在线预览 &rarr;](https://littlekj.github.io)**
 
-![screenshot home](https://blog.ink-quill.com/assets/images/screenshots/home.png)
+![screenshot home](https://littlekj.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
@@ -55,11 +54,11 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
    pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息，包括 \_data 目录下的 skills.yml 和 social.yml 文件里的数据。
 
-   skills.yml 和 social.yml 里内容的含义可以参考：[_data 目录下的 yml 文件内容含义](https://blog.ink-quill.com/2020/05/03/blog-template-qna/#_data-%E7%9B%AE%E5%BD%95%E4%B8%8B%E7%9A%84-yml-%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E5%90%AB%E4%B9%89)。
+   skills.yml 和 social.yml 里内容的含义可以参考：[_data 目录下的 yml 文件内容含义](https://littlekj.github.io/2020/05/03/blog-template-qna/#_data-%E7%9B%AE%E5%BD%95%E4%B8%8B%E7%9A%84-yml-%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E5%90%AB%E4%B9%89)。
 
 ## 使用文档
 
-- [本博客模板常见问题 Q & A](https://blog.ink-quill.com/2020/05/03/blog-template-qna/)。
+- [本博客模板常见问题 Q & A](https://littlekj.github.io/2020/05/03/blog-template-qna/)。
 
 - 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
 
@@ -68,7 +67,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/littlekj/littlekj.github.io/issues) 
 
-<img width="192px" height="192px" src="https://blog.ink-quill.com/assets/images/qrcode.jpg"/>
+<img width="192px" height="192px" src="https://littlekj.github.io/assets/images/qrcode.jpg"/>
 
 ## 致谢
 
