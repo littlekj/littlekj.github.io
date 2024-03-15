@@ -1,4 +1,4 @@
-# 日志
+# 码志
 
 我的个人博客：<https://blog.ink-quill.com>，欢迎 Star 和 Fork。
 
@@ -64,7 +64,12 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 - 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
 
 
+## 联系我
+
+如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/littlekj/littlekj.github.io/issues) 
+
+<img width="192px" height="192px" src="https://blog.ink-quill.com/assets/images/qrcode.jpg"/>
+
 ## 致谢
 
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) 和 https://mazhuang.org/ 修改，感谢！
-
+本博客外观基于 [DONGChuan](https://dongchuan.github.io) 和 https://github.com/mzlogin/mzlogin.github.io 修改，感谢！
