@@ -78,7 +78,7 @@
     <script src="{{ assets_base_url }}/assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="{{ assets_base_url }}/assets/js/main.js"></script>
 
-    {% if site.google.adsense.enabled and site.url contains 'mazhuang.org' %}
+    {% if site.google.adsense.enabled and site.url contains 'littlekj.github.io' %}
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7093222719567591" crossorigin="anonymous"></script>
     {% endif %}
 
@@ -97,7 +97,8 @@
 <body class="{{ page.class }}" data-mz="{{ page.class }}">
     <header class="site-header">
         <div class="container">
-            <h1><a href="{{ site.url }}/" title="{{ site.title }}"><span class="octicon octicon-mark-github"></span> {{ site.title }}</a></h1>
+            <!-- <h1><a href="{{ site.url }}/" title="{{ site.title }}"><span class="octicon octicon-mark-github"></span> {{ site.title }}</a></h1> -->
+            <h1><a href="{{ site.url }}/" title="{{ site.title }}"><img style="height:24px;width:16px; display: inline-block; " src="http://localhost:4000/lifting.ico" alt="请显示我吖"> {{ site.title }}</a></h1>
             <button class="collapsed mobile-visible" type="button" onclick="toggleMenu();">
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
