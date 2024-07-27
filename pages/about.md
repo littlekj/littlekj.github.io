@@ -40,3 +40,5 @@ permalink: /about/
 
 
 其概率质量函数为： $f(x) = p^x(1-p)^{1-x} =$
+
+$X \sim B(n,p)$
