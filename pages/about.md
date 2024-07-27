@@ -39,4 +39,4 @@ permalink: /about/
 {% endfor %}
 
 
-其概率质量函数为： $f(x) = p^x(1-p)^{1-x} = \left{\begin{array}{ll} p & \text { if } x=1 \ q & \text { if } x=0 \end{array}\right.$
+其概率质量函数为： $f(x) = p^x(1-p)^{1-x} = \left{\begin{array}{ll} p$ & $\text { if } x=1 \ q & \text { if } x=0 \end{array}\right.$
