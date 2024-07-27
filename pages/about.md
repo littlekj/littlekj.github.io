@@ -37,3 +37,5 @@ permalink: /about/
 {% endfor %}
 </div>
 {% endfor %}
+
+$\mu$
