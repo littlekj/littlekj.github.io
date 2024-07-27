@@ -38,4 +38,4 @@ permalink: /about/
 </div>
 {% endfor %}
 
-$\mu$
+$\mu = \frac{2+4+6+8+10}{5} = 6​$
