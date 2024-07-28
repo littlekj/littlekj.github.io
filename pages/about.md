@@ -49,3 +49,5 @@ $$\begin{flalign}
 \end{flalign}$$
 
 $\phi_{\bar X}(t)=E(e^{it \bar X})=E(e^{it\frac{1}{n}\sum_{i=1}^{n}X_i})$
+
+$$ln{\begin{bmatrix} {\phi{_X}(\frac{t}{n})} \end{bmatrix}}^n=nln\begin{bmatrix} 1+i\frac{t}{n}\mu-\frac{1}{2}(\frac{t}{n})^2\sigma^2 \end{bmatrix} \approx n(i\frac{t}{n}\mu-\frac{1}{2}(\frac{t}{n})^2\sigma^2) = it\mu-\frac{t^2}{2n}\sigma^2$$
