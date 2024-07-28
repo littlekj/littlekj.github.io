@@ -39,40 +39,8 @@ permalink: /about/
 {% endfor %}
 
 
-其概率质量函数为： $f(x) = p^x(1-p)^{1-x} =$
-
-$X \sim B(n,p)$ 。
-
-
-
-$\phi{_\bar X}(t)=E(e^{it \bar X})=E(e^{it\frac{1}{n}\sum_{i=1}^{n}X_i})$
-
- $\phi{_\bar X}(t)=E\begin{bmatrix}\prod_{i=1}^{n}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}$
-
- $\phi{\bar X}(t)=\prod{i=1}^{n}E\begin{bmatrix}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}$
-
- $E\begin{bmatrix}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}$
----
-$$\begin{flalign} & f(x)=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}} & \end{flalign}$$
-
-$$ln{\begin{bmatrix} {\phi{_X}(\frac{t}{n})} \end{bmatrix}}^n=nln\begin{bmatrix} 1+i\frac{t}{n}\mu-\frac{1}{2}(\frac{t}{n})^2\sigma^2 \end{bmatrix} \approx n(i\frac{t}{n}\mu-\frac{1}{2}(\frac{t}{n})^2\sigma^2) = it\mu-\frac{t^2}{2n}\sigma^2$$
-
-$${\Large {\begin{bmatrix} 1-p+p(1+t+\frac{t^2}{2}) \end{bmatrix}}^n \approx {\begin{bmatrix} 1+\frac{pt^2}{2} \end{bmatrix}}^n}$$
-
----
-$\phi_{\bar X}(t)=E(e^{it \bar X})=E(e^{it\frac{1}{n}\sum_{i=1}^{n}X_i})$
-
-$\phi{_\bar X}(t)=E{\begin{bmatrix}\prod_{i=1}^{n}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}}$
-
-
-$$
-\begin{matrix}
-1 & x & x^2 \\
-1 & y & y^2 \\
-1 & z & z^2 \\
-\prod_{i=1}^{n}{e^{i{\frac{t}{n}X_i}}} \\
-\end{matrix}
-$$
-
-${\textstyle \prod_{1}^{n}}$
+$$f(x) = p^x(1-p)^{1-x} =\begin{cases}
+  p & \text{ if x = 1 }  \\
+  q & \text{ q x = 0} 
+\end{cases}$$
 
