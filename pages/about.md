@@ -70,7 +70,7 @@ $$
 1 & x & x^2 \\
 1 & y & y^2 \\
 1 & z & z^2 \\
-\phi{_\bar X}(t)=E{\begin{bmatrix}\prod_{i=1}^{n}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}} \\
+\prod_{i=1}^{n}{e^{i{\frac{t}{n}X_i}}} \\
 \end{matrix}
 $$
 
