@@ -47,3 +47,5 @@ $$
 $$\begin{flalign}
 & f(x)=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}} &
 \end{flalign}$$
+
+$\phi_{\bar X}(t)=E(e^{it \bar X})=E(e^{it\frac{1}{n}\sum_{i=1}^{n}X_i})$
