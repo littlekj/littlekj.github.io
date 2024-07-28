@@ -64,11 +64,13 @@ $\phi_{\bar X}(t)=E(e^{it \bar X})=E(e^{it\frac{1}{n}\sum_{i=1}^{n}X_i})$
 
 $\phi{_\bar X}(t)=E{\begin{bmatrix}\prod_{i=1}^{n}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}}$
 
-$\prod_{}^{}$ 
 
-\prod{i=1}^{n}{e^{i{\frac{t}{n}X_i}}}
-
-$\phi{\bar X}(t)=E{\begin{bmatrix}\end{bmatrix}}$
-
-$E{\begin{bmatrix} test \end{bmatrix}}$
+$$
+\begin{matrix}
+1 & x & x^2 \\
+1 & y & y^2 \\
+1 & z & z^2 \\
+\phi{_\bar X}(t)=E{\begin{bmatrix}\prod_{i=1}^{n}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}} \\
+\end{matrix}
+$$
 
