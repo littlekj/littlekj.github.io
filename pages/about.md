@@ -39,8 +39,11 @@ permalink: /about/
 {% endfor %}
 
 
-$$f(x) = p^x(1-p)^{1-x} =\begin{cases}
+$$
+f(x) = p^x(1-p)^{1-x} = \\
+\begin{cases}
   p & \text{ if x = 1 }  \\
   q & \text{ q x = 0} 
-\end{cases}$$
+\end{cases}
+$$
 
