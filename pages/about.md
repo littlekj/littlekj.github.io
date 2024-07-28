@@ -39,9 +39,6 @@ permalink: /about/
 {% endfor %}
 
 
-$$
-\begin{cases}
-{\lambda}e^{-\lambda{x}} & x\ge 0 \\ 
-0 & x<0 
-\end{cases}
-$$
+$$\begin{flalign}
+& f(x)=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}} &
+\end{flalign}$$
