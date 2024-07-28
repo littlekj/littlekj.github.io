@@ -43,7 +43,7 @@ permalink: /about/
 
 $X \sim B(n,p)$ 。
 
-$$\begin{flalign} & f(x)=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}} & \end{flalign}$$
+
 
 $\phi{_\bar X}(t)=E(e^{it \bar X})=E(e^{it\frac{1}{n}\sum_{i=1}^{n}X_i})$
 
@@ -52,6 +52,8 @@ $\phi{_\bar X}(t)=E(e^{it \bar X})=E(e^{it\frac{1}{n}\sum_{i=1}^{n}X_i})$
  $\phi{\bar X}(t)=\prod{i=1}^{n}E\begin{bmatrix}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}$
 
  $E\begin{bmatrix}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}$
+---
+$$\begin{flalign} & f(x)=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}} & \end{flalign}$$
 
 $$ln{\begin{bmatrix} {\phi{_X}(\frac{t}{n})} \end{bmatrix}}^n=nln\begin{bmatrix} 1+i\frac{t}{n}\mu-\frac{1}{2}(\frac{t}{n})^2\sigma^2 \end{bmatrix} \approx n(i\frac{t}{n}\mu-\frac{1}{2}(\frac{t}{n})^2\sigma^2) = it\mu-\frac{t^2}{2n}\sigma^2$$
 
