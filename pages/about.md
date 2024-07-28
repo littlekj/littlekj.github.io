@@ -74,5 +74,5 @@ $$
 \end{matrix}
 $$
 
-$\prod_{1}^{n}$
+${\textstyle \prod_{1}^{n}}$
 
