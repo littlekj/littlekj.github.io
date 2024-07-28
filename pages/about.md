@@ -48,11 +48,9 @@ f(x) = p^x(1-p)^{1-x} = \\
 $$
 
 $$
-f(x)=\left\{
-\begin{array}
-{ll} {\frac{1}{b-a}} & \text { for } {a \leq x \leq b} \\ 0 & \text {elsewhere} 
-\end{array}
-\right.
+f(x) = \\
+\begin{cases}
+  \frac{1}{b-a} & \text{ for } {a \leq x \leq b} \\
+  0 & \text{ elsewhere} 
+\end{cases}
 $$
-
-$$\prod_{1}^{n}$$
