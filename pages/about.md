@@ -38,6 +38,11 @@ permalink: /about/
 </div>
 {% endfor %}
 
+$$ 
+\begin{flalign*} 
+& \displaystyle f(x)={\frac {1}{{\sqrt {2 \pi } \sigma}}}e^{-{\frac {\left(x-\mu \right)^{2}}{2\sigma ^{2}}}} &
+\end{flalign*}
+$$
 
 $$\begin{flalign}
 & f(x)=\frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}} &
