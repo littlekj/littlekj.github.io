@@ -40,17 +40,7 @@ permalink: /about/
 
 
 $$
-f(x) = p^x(1-p)^{1-x} = \\
 \begin{cases}
-  p & \text{ if x = 1 }  \\
-  q & \text{ q x = 0} 
-\end{cases}
-$$
-
-$$
-f(x) = \\
-\begin{cases}
-  \frac{1}{b-a} & \text{ for } {a \leq x \leq b} \\
-  0 & \text{ elsewhere} 
+{\lambda}e^{-\lambda{x}} & x\ge 0 \\ 0 & x<0 
 \end{cases}
 $$
