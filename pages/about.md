@@ -63,4 +63,6 @@ $${\Large {\begin{bmatrix} 1-p+p(1+t+\frac{t^2}{2}) \end{bmatrix}}^n \approx {\b
 $\phi_{\bar X}(t)=E(e^{it \bar X})=E(e^{it\frac{1}{n}\sum_{i=1}^{n}X_i})$
 
 $\phi{_\bar X}(t)=E{\begin{bmatrix}\prod_{i=1}^{n}{e^{i{\frac{t}{n}X_i}}}\end{bmatrix}}$
- 
+
+$\prod_{}^{}$ 
+
