@@ -41,6 +41,7 @@ permalink: /about/
 
 $$
 \begin{cases}
-{\lambda}e^{-\lambda{x}} & x\ge 0 \\ 0 & x<0 \\
+{\lambda}e^{-\lambda{x}} & x\ge 0 \\ 
+0 & x<0 
 \end{cases}
 $$
